@@ -8,7 +8,7 @@
 titanic-analysis/
 ├── 1_data_wrangling/            # Data cleaning notebook
 ├── datasets/                    # Raw & processed data
-└── images/                      # Future visualizations (Week 2)
+└── EDA/                      # Future visualizations (Week 2)
 ```
 
 ## 🔍 Key Findings (Week 1)  
